@@ -1,6 +1,8 @@
 Initial project created to refresh react and basic concepts. Will extend further for service workers.
 The currency converter api used is "https://api.exchangeratesapi.io/latest"
 
+Can be previewed on github pages at https://ninadthepade.github.io/currencyconverterapp/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
