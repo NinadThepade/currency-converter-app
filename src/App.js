@@ -17,7 +17,7 @@ function App() {
 
   if(amountFromCurrency) {
     fromAmount = amount
-    toAmount = amount * exchangeRate
+    toAmount = amount * (exchangeRate || 1)
   } else {
     toAmount = amount
     fromAmount = amount / exchangeRate
